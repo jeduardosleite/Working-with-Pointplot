@@ -2,4 +2,4 @@
 
 ### Analyzing graphs to answer questions about income predictors.
 
-## Utilizing pointplot from seaborn.
+ Utilizing pointplot from seaborn.
